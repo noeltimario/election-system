@@ -1,0 +1,19 @@
+body{
+background: linear-gradient(135deg,#1e3c72,#2a5298);
+color:white;
+font-family:Segoe UI;
+}
+
+.card{
+border-radius:15px;
+box-shadow:0 10px 20px rgba(0,0,0,0.3);
+}
+
+.btn-primary{
+background:#00c6ff;
+border:none;
+}
+
+.btn-primary:hover{
+background:#0072ff;
+}
